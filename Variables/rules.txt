@@ -1,0 +1,14 @@
+1 . varibale can start from an alphapet or undersocre"__"
+2 / special characters except _ are not allowed in beggining.
+3 C keyword are not allowed
+4 Commas or blanks are not allowed 
+
+// key word in c- This are reserved word in c 
+
+auto   double int break extern enum unsigned while
+case   sizeof for const static long continue else
+signed do short switch char goto  if uinion return 
+void  register
+
+// c - is case sensitive 
+ for example, math and Math are declare as diffent variables name
